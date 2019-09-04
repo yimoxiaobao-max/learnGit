@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Branch management strate.
 在这里修复了bug.
+hahahahahaha
